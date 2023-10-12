@@ -29,7 +29,7 @@ export default function Home() {
 
     return <>
         <header>
-            <div className="container py-5">
+            <div className="container py-3">
                 <div className="d-flex justify-content-between">
                     <h3>Best offers for you</h3>
             
@@ -50,7 +50,7 @@ export default function Home() {
                     </div>
                 </div>
             </div>
-            <div className="container py-5">
+            <div className="container py-3">
                 <div className="d-flex justify-content-between">
                     <h3>What's on your mind?</h3>
 
@@ -120,13 +120,13 @@ export default function Home() {
 
                 </div>
             </div>
-            <div className="container py-5">
+            <div className="container py-3">
                 <form className="d-flex w-100 mx-auto" role="search">
                     <input className="w-100 me-2 p-2" type="search" placeholder="Search For Anything" aria-label="Search" />
                     <button className={`btn  ${style.buttonStyle} px-3 text-white`} type="submit">Search</button>
                 </form>
             </div>
-            <div className="container py-5">
+            <div className="container py-3">
                 <h3>Restaurants near you</h3>
                 <div className="row">
                     <div className="col-6 col-md-4 col-lg-3">
