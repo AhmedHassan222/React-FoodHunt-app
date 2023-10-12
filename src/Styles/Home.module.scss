@@ -2,14 +2,9 @@ header {
     .slider {
         overflow-x: scroll;
     }
-    .slider1::-webkit-scrollbar  
-    {
-        display: none;
-        overflow-x: scroll;
 
-    }
 
-    
+
     .slider::-webkit-scrollbar {
         background-color: #e7e7e7;
     }
@@ -32,5 +27,12 @@ header {
             background-color: rgb(219, 143, 2);
             cursor: pointer;
         }
+    }
+}
+
+@media screen and (min-width:0px) and (max-width:991px) {
+    .slider::-webkit-scrollbar {
+        display: none;
+
     }
 }

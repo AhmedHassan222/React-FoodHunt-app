@@ -25,30 +25,17 @@ import image24 from '../assets/images/South_Indian_4.jfif'
 
 import style from '../Styles/Home.module.scss'
 export default function Home() {
-    let i = 0;
-    function left() {
-        document.querySelector('#right').classList.remove('opacity-50')
-        document.querySelector('#sliderOne').scroll(0, 0)
-        document.querySelector('#left').classList.add('opacity-50')
-    }
-    function right() {
-        document.querySelector('#left').classList.remove('opacity-50')
-        document.querySelector('#sliderOne').scroll(10000000, 0)
-        document.querySelector('#right').classList.add('opacity-50')
-    }
+
 
     return <>
         <header>
             <div className="container py-5">
                 <div className="d-flex justify-content-between">
                     <h3>Best offers for you</h3>
-                    <div>
-                        <i id='left' onClick={left} className={`fa-solid fa-arrow-left  opacity-50  text-white me-2 p-2 ${style.buttonStyle} rounded-circle`}></i>
-                        <i id='right' onClick={right} className={`fa-solid fa-arrow-right text-white  p-2 ${style.buttonStyle} rounded-circle`}></i>
-                    </div>
+            
 
                 </div>
-                <div id='sliderOne' className={`row py-2 g-2 flex-nowrap ${style.slider} ${style.slider1}`}>
+                <div id='sliderOne' className={`row py-2 g-2 flex-nowrap ${style.slider} `}>
                     <div className="col-6 col-md-4 col-lg-4">
                         <img className='w-100' src={image1} alt="" />
                     </div>
