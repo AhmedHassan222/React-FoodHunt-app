@@ -1,0 +1,36 @@
+header {
+    .slider {
+        overflow-x: scroll;
+    }
+    .slider1::-webkit-scrollbar  
+    {
+        display: none;
+        overflow-x: scroll;
+
+    }
+
+    
+    .slider::-webkit-scrollbar {
+        background-color: #e7e7e7;
+    }
+
+    .slider::-webkit-scrollbar-thumb {
+        background-color: #b0b0b0;
+        border-radius: 10px;
+
+    }
+
+    .slider::-webkit-scrollbar {
+        height: 5px;
+
+    }
+
+    .buttonStyle {
+        background-color: orange;
+
+        &:hover {
+            background-color: rgb(219, 143, 2);
+            cursor: pointer;
+        }
+    }
+}

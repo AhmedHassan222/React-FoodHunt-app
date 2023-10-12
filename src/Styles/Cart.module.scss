@@ -1,0 +1,30 @@
+.cart {
+    .right {
+        overflow-y: auto;
+        height: 80vh;
+    }
+    .right::-webkit-scrollbar {
+        background-color: #e7e7e7;
+    }
+
+    .right::-webkit-scrollbar-thumb {
+        background-color: #b0b0b0;
+        border-radius: 10px;
+
+    }
+
+    .right::-webkit-scrollbar {
+        height: 5px;
+        width: 5px;
+
+    }
+
+    .btnStyle {
+        background-color: orange;
+
+        &:hover {
+            background-color: rgb(219, 143, 2);
+            cursor: pointer;
+        }
+    }
+}
