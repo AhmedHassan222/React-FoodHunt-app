@@ -57,64 +57,64 @@ export default function Home() {
 
                 </div>
                 <div  className={`row py-2 g-2 flex-nowrap ${style.slider}`}>
-                    <div className="col-sm-3 col-md-2 col-lg-2 ">
+                    <div className="col-3 ">
                         <img className='w-100' src={image5} alt="" />
                     </div>
-                    <div className="col-sm-3 col-md-2 col-lg-2 ">
+                    <div className="col-3 ">
                         <img className='w-100' src={image6} alt="" />
                     </div>
-                    <div className="col-sm-3 col-md-2 col-lg-2 ">
+                    <div className="col-3 ">
                         <img className='w-100' src={image7} alt="" />
                     </div>
-                    <div className="col-sm-3 col-md-2 col-lg-2 ">
+                    <div className="col-3 ">
                         <img className='w-100' src={image8} alt="" />
                     </div>
-                    <div className="col-sm-3 col-md-2 col-lg-2 ">
+                    <div className="col-3 ">
                         <img className='w-100' src={image9} alt="" />
                     </div>
-                    <div className="col-sm-3 col-md-2 col-lg-2 ">
+                    <div className="col-3 ">
                         <img className='w-100' src={image10} alt="" />
                     </div>
-                    <div className="col-sm-3 col-md-2 col-lg-2 ">
+                    <div className="col-3 ">
                         <img className='w-100' src={image11} alt="" />
                     </div>
-                    <div className="col-sm-3 col-md-2 col-lg-2 ">
+                    <div className="col-3 ">
                         <img className='w-100' src={image12} alt="" />
                     </div>
-                    <div className="col-sm-3 col-md-2 col-lg-2 ">
+                    <div className="col-3 ">
                         <img className='w-100' src={image13} alt="" />
                     </div>
-                    <div className="col-sm-3 col-md-2 col-lg-2 ">
+                    <div className="col-3 ">
                         <img className='w-100' src={image14} alt="" />
                     </div>
-                    <div className="col-sm-3 col-md-2 col-lg-2 ">
+                    <div className="col-3 ">
                         <img className='w-100' src={image15} alt="" />
                     </div>
-                    <div className="col-sm-3 col-md-2 col-lg-2 ">
+                    <div className="col-3 ">
                         <img className='w-100' src={image16} alt="" />
                     </div>
-                    <div className="col-sm-3 col-md-2 col-lg-2 ">
+                    <div className="col-3 ">
                         <img className='w-100' src={image17} alt="" />
                     </div>
-                    <div className="col-sm-3 col-md-2 col-lg-2 ">
+                    <div className="col-3 ">
                         <img className='w-100' src={image18} alt="" />
                     </div>
-                    <div className="col-sm-3 col-md-2 col-lg-2 ">
+                    <div className="col-3 ">
                         <img className='w-100' src={image19} alt="" />
                     </div>
-                    <div className="col-sm-3 col-md-2 col-lg-2 ">
+                    <div className="col-3 ">
                         <img className='w-100' src={image20} alt="" />
                     </div>
-                    <div className="col-sm-3 col-md-2 col-lg-2 ">
+                    <div className="col-3 ">
                         <img className='w-100' src={image21} alt="" />
                     </div>
-                    <div className="col-sm-3 col-md-2 col-lg-2 ">
+                    <div className="col-3 ">
                         <img className='w-100' src={image22} alt="" />
                     </div>
-                    <div className="col-sm-3 col-md-2 col-lg-2 ">
+                    <div className="col-3 ">
                         <img className='w-100' src={image23} alt="" />
                     </div>
-                    <div className="col-sm-3 col-md-2 col-lg-2 ">
+                    <div className="col-3 ">
                         <img className='w-100' src={image24} alt="" />
                     </div>
 
