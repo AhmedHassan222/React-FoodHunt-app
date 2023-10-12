@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/React-FoodHunt-app/static/css/main.7b1506ce.css",
+    "main.css": "/React-FoodHunt-app/static/css/main.d738d5f2.css",
     "main.js": "/React-FoodHunt-app/static/js/main.5abfcc68.js",
     "static/js/787.b729d00d.chunk.js": "/React-FoodHunt-app/static/js/787.b729d00d.chunk.js",
     "static/media/fa-solid-900.ttf": "/React-FoodHunt-app/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
@@ -34,12 +34,12 @@
     "static/media/fa-v4compatibility.ttf": "/React-FoodHunt-app/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
     "static/media/fa-v4compatibility.woff2": "/React-FoodHunt-app/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
     "index.html": "/React-FoodHunt-app/index.html",
-    "main.7b1506ce.css.map": "/React-FoodHunt-app/static/css/main.7b1506ce.css.map",
+    "main.d738d5f2.css.map": "/React-FoodHunt-app/static/css/main.d738d5f2.css.map",
     "main.5abfcc68.js.map": "/React-FoodHunt-app/static/js/main.5abfcc68.js.map",
     "787.b729d00d.chunk.js.map": "/React-FoodHunt-app/static/js/787.b729d00d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7b1506ce.css",
+    "static/css/main.d738d5f2.css",
     "static/js/main.5abfcc68.js"
   ]
 }
